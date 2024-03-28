@@ -1,0 +1,11 @@
+Problem Statement:
+
+Credit card fraud is a significant concern for financial institutions and cardholders alike. With the increasing use of credit cards for transactions, detecting fraudulent activities has become crucial to minimize financial losses and protect consumers' interests. The problem at hand involves developing a robust machine learning model capable of accurately identifying fraudulent transactions from legitimate ones.
+
+Objective:
+
+The primary objective is to build a predictive model that can effectively distinguish between genuine transactions and fraudulent ones. The model should be able to generalize well to unseen data and provide reliable predictions in real-time scenarios.
+
+Evaluation Metric:
+
+The model's performance will be evaluated using appropriate metrics such as accuracy, precision, recall, F1-score, and area under the ROC curve (AUC-ROC). Given the imbalanced nature of the dataset, precision, recall, and F1-score are particularly important to assess the model's ability to correctly identify fraudulent transactions while minimizing false positives.
